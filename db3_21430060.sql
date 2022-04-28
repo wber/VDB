@@ -28,8 +28,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`username`, `password`, `email`, `firstname`, `lastname`, `dob`, `bio`, `photos`, `topics`, `likes`) VALUES
-('', '$2y$10$dzCAHWCsh.LSN7K5lnOHA.huH7v3aHzgfnqIRs6CxIPKWEw3cIova', '', 'V', 'SG', '1999-01-01', '', 0, 0, 0),
-('root', '$2y$10$GAiHxjXGaww4t5cp1sihS.5nom96Ux4m8hoUxJPjjG8F2.HlQF8fO', '21430060@bucks.ac.uk', 'Vanya', 'Sark-Geissler', '1995-12-12', 'Change', 0, 0, 0),
+('', '$2y$10$dzCAHWCsh.LSN7K5lnOHA.huH7v3aHzgfnqIRs6CxIPKWEw3cIova', '', 'd', 'ata', '1999-01-01', '', 0, 0, 0),
+('root', '$2y$10$GAiHxjXGaww4t5cp1sihS.5nom96Ux4m8hoUxJPjjG8F2.HlQF8fO', '21430060@address.com', 'Vanya', 'Sark-Geissler', '1999-01-01', 'Change', 0, 0, 0),
 ('Username', '$2y$10$8sINvAWTL/g9kdBPPLW7/OB0nkC.AzSlLgy0NAXeUlW8yk59JtVpC', 'Email@address.com', '', '', '1999-01-01', 'Change', 0, 0, 0);
 
 --
