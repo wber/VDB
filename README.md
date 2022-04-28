@@ -35,25 +35,6 @@ Or create a new account
 
 
 
-the cloud server application config.
-
-For this project I setup an ec2 on aws and the app works on there, 
-the ip address is: [http://13.48.48.60/login](http://13.48.48.60/login)
-the domain name attached is: [http://piktopik.com](http://piktopik.com)
-
-sign in details:
-username: root
-password: vanyaproject
-
-once logged in, the app is: [http://13.48.48.60/vdb]
-the phpmyadmin login is different!! 
-phpmyadmin is the db part of vdb, so it is [http://13.48.48.60/vdb/db] this is show all in one in /vdb 
-
-phpmyadmin login in details:
-username: root
-password: macbookproM1 
-
-*** the password is case sensitive with only uppercase M
 
 
 
